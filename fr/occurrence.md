@@ -1,5 +1,5 @@
 ---
-permalink: /da/occurrence/search
+permalink: /fr/occurrence/search
 lang-ref: occurrence/search
 title: Occurrence search
 description: We publish open data

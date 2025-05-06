@@ -21,32 +21,11 @@ var siteConfig = {
   "pages": [
       {
           "id": "occurrenceSearch"
-      },
-      {
-          "id": "collectionSearch"
-      },
-      {
-          "id": "collectionKey"
-      },
-      {
-          "id": "datasetSearch"
-      },
-      {
-          "id": "datasetKey"
-      },
-      {
-          "id": "institutionKey"
-      },
-      {
-          "id": "literatureSearch"
       }
   ],
   "disableInlineTableFilterButtons": false,
   "availableCatalogues": [
-      "OCCURRENCE",
-      "DATASET",
-      "COLLECTION",
-      "LITERATURE"
+      "OCCURRENCE"
   ],
   "dataHeader": {
       "enableApiPopup": false,
@@ -82,33 +61,29 @@ var siteConfig = {
           "mapTileLocale": "en"
       },
       {
-          "code": "da",
-          "localeCode": "da",
-          "label": "Dansk",
+          "code": "fr",
+          "localeCode": "fr",
+          "label": "Français",
           "default": false,
           "textDirection": "ltr",
-          "iso3LetterCode": "dan",
-          "cmsLocale": "en-GB",
-          "gbifOrgLocalePrefix": "",
-          "mapTileLocale": "en"
+          "iso3LetterCode": "fra",
+          "cmsLocale": "fr-FR",
+          "gbifOrgLocalePrefix": "fr",
+          "mapTileLocale": "fr"
       }
   ],
   "messages": {},
   "occurrenceSearch": {
       "scope": {
-          "type": "in",
-          "key": "publishingOrg",
-          "values": [
-              "760d5f24-4c04-40da-9646-1b2c935da502",
-              "2e7df380-8356-4533-bcb3-5459e23c794e",
-              "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
-          ]
+          "type": "equals",
+          "key": "taxonKey",
+          "value": "5485"
       },
       "highlightedFilters": [
           "taxonKey",
-          "verbatimScientificName",
           "institutionKey",
           "collectionKey",
+          "oragnismId",
           "catalogNumber",
           "recordedBy",
           "identifiedBy"

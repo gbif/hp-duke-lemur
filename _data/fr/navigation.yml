@@ -1,0 +1,8 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About lang2
+  href: /fr/about
+- text: Data
+  menu: 
+  - text: Occurrence lang2
+    href: /fr/occurrence/search

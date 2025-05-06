@@ -1,28 +1,24 @@
 ---
 lang-ref: home
 layout: home
-title: Danish System of Scientific Collections
-description: Part of the European Project DiSSCo
-background:  "{{ site.data.images.shells_with_barcode.src }}"
-imageLicense: "{{ site.data.images.shells_with_barcode.caption }}"
+title: Lemur data french
+description: Open data from the Duke Lemur Center
+background:  /assets/images/placeholders/new-home-hero-1.jpg
+imageLicense: Some license and description should go here
 height: 90vh
 cta:
-  - text: Specimens
-    href: /occurrence/search
+  - text: Records
+    href: /fr/occurrence/search
     isPrimary: true
-  - text: Datasets
-    href: /dataset/search
   - text: About
-    href: /about
+    href: /fr/about
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
   - type: split
     data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
-permalink: /da
+permalink: /fr
 ---
 
 Edit `/home.md` to change the text.
