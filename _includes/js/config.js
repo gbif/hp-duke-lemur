@@ -83,7 +83,7 @@ var siteConfig = {
           "taxonKey",
           "institutionKey",
           "collectionKey",
-          "oragnismId",
+          "organismId",
           "catalogNumber",
           "recordedBy",
           "identifiedBy"
