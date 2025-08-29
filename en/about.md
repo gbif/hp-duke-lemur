@@ -3,10 +3,8 @@ permalink: about
 layout: post
 lang-ref: about
 title: About the Duke Lemur Center GBIF data portal
-description: Since its establishment in 1966, the Duke Lemur Center (DLC) has been home to generations of lemurs and other primates, totaling over 4,000 individuals. We have worked with scientists around the world to conduct an array of research projects spanning diverse fields of study. The DLC provides opportunity for observational and experimental research under ecologically relevant and controlled settings. All DLC research is minimally invasive and non-harmful to the animals. The BioBank an extensive and curated specimen repository enabling studies across organismal scale from molecules to whole organisms. The DLC Museum of Natural History (DLCMNH) houses more than 35,000 fossil, subfossil, and osteological specimens that are available for study.  The collection spans over 55 million years of evolution on 3 continents.
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
+description: Since its establishment in 1966, the Duke Lemur Center (DLC) has been home to generations of lemurs and other primates, totaling over 4,000 individuals. We work with scientists around the world to conduct an array of research projects spanning diverse fields of study. The DLC provides opportunity for observational and experimental research under ecologically relevant and controlled settings. All DLC research is minimally invasive and non-harmful to the animals. The BioBank an extensive and curated specimen repository enabling studies across organismal scale from molecules to whole organisms. The DLC Museum of Natural History (DLCMNH) houses more than 35,000 fossil, subfossil, and osteological specimens that are available for study.  The collection spans over 55 million years of evolution on 3 continents.
+background: /assets/images/Motmot%20DLC%207056%20research.jpeg
 height: 70vh
 ---
 
