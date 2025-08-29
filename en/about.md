@@ -60,7 +60,7 @@ We are always interested to learn how our data are being used and happy to answe
 These are the preferred formats for citing data published by the DLC. If other citation practices apply, feel free to use them, but please include a link.
 
 #### Aggregated data
-Example: Acadia University, Université de Montréal Biodiversity Centre, University of Toronto Mississauga, University of British Columbia. https://data.lemur.duke.edu/occurrence/ (accessed on 2012-03-21)
+Example: Duke Lemur Center, Memphis Zoo, American Museum of Natural History. https://data.lemur.duke.edu/occurrence/ (accessed on 2024-08-29)
 
 Format: [list of data publishers]. https://data.lemur.duke.edu/occurrence/ (accessed on [date])
 
