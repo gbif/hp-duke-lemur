@@ -51,7 +51,7 @@ Datasets provided by the DLC, including text, images, and other media, are freel
 
 If you plan to publish in a peer-reviewed journal using these data, please cite any specimen numbers, which begin "DLC" for our living and biobank collections and “DPC” for fossil and osteology collections. For digital media from MorphoSource, please include the ARK ID of the scan, 3D model, or 2D image you used.
 
-Prior to publication,  we ask that you include “This is Duke Lemur Center publication #XXXX” in the Acknowledgements. To get your actual manuscript number, contact us or DLC Research Manager Erin Ehmke (erin.ehmke@duke.edu) when the paper is at the ‘accepted with revisions’ stage.
+Prior to publication,  we ask that you include “This is Duke Lemur Center publication #XXXX” in the Acknowledgements. To get your actual manuscript number, contact us or DLC Research Manager Erin Ehmke (erin.ehmke@duke.edu) when the paper is at the "accepted with revisions" stage.
 
 We are always interested to learn how our data are being used and happy to answer any questions about usage or citations, so please feel free to reach out to the contacts associated with the dataset you are using to share more about your project and/or ask for assistance.
 
