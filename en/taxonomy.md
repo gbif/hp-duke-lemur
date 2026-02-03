@@ -1,6 +1,6 @@
 ---
 permalink: taxonomy
-layout: post
+layout: documentation
 lang-ref: taxonomy
 title: Taxa of Duke Lemur Center
 description: Extinct and extant taxa housed at the Duke Lemur Center and Museum of Natural History
