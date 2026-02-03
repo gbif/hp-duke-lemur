@@ -7,6 +7,7 @@ description: Extinct and extant taxa housed at the Duke Lemur Center and Museum 
 background: /assets/images/placeholders/closeup.png
 imageLicense: placeholder
 height: 70vh
+toc: true
 ---
 
 Taxa are organized alphabetically by class. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218).
