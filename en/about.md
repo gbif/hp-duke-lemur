@@ -15,11 +15,11 @@ The DLC has two in-house research themes, occurring on-site and in Madagascar, t
 
 All of this work has resulted in the creation and maintenance of vast quantities of data, made even more powerful when presented relationally. Our hope is that, by sharing these data on GBIF and encouraging other researchers and institutions to do the same, we will greatly increase the availability and accessibility of lemur-related biodiversity data.
 
-## Husbandry practices
+### Husbandry practices
 
 The Duke Lemur Center houses nearly 250 lemurs and bush babies across 12 species — the most diverse population of lemurs on Earth, outside their native Madagascar.
 
-## Natural Habitat Enclosures
+### Natural Habitat Enclosures
 
 All of our lemurs live in enclosures with indoor/outdoor access. Each group has access to multiple enclosures. For example, a group of four lemurs will have access to four connecting indoor areas with four connecting outdoor yards. Thus they are set up for research trials that require access to any animal singly or any combination of animals from that group as they can be easily temporarily shifted to accommodate the needs of the researchers.
 
@@ -27,23 +27,23 @@ During the warm months of the year (typically mid-April to mid-October), approxi
 
 ![A map of the NHEs on the DLC campus](https://lemur.duke.edu/wordpress/wp-content/uploads/2013/11/facilities-1024x680.png)
 
-# Lemur Center Portal data
+## Lemur Center Portal data
 
 The DLC began publishing data to GBIF via VertNet in 2025. Most datasets contain specimen data but we plan to add checklists, media, and observation data. All datasets are published in the biodiversity information standard Darwin Core, and you can explore, download and use them for free under a non-commercial license.
 
-## Colony data
+### Colony data
 
 Since its establishment in 1966, the DLC has accumulated detailed records for over 4300 individuals from over 40 closely related yet biologically diverse primate taxa in our care, including ancestry, reproduction, longevity, and body mass. Our institution houses more than 200 individual animals representing 12 species and is home to nocturnal, diurnal, and cathemeral animals, as well as species that encompass a wide range of social systems, modes of locomotion, and dietary preferences. Our colony data also includes a species checklist for all taxa that the DLC has cared for since 1966.
 
-## Biobank data
+### Biobank data
 
 The DLC Research Department maintains a large inventory of vouchered biological samples that are available for scientific study by qualified individuals or institutions. Samples such as blood, serum, and urine are banked opportunistically from our living colony during routine physical exams or other veterinary procedures. Tissues are collected from animals that have died of natural causes. Samples are preserved in a variety of ways suitable for DNA, RNA, and histological analyses. Cadavers are kept frozen and are also available for study.
 
-## Fossil, subfossil, and osteological data
+### Fossil, subfossil, and osteological data
 
 The DLC Museum of Natural History is the largest, most diverse collection of fossil primates in North America. Through extensive field work in Madagascar, Egypt, Peru, Colombia, and the United States, our collection also contains non-primate lineages, including bats, proboscideans, crocodilians, birds, rodents, carnivorans, sharks, and anthracotheres. In addition to its fossils and subfossils, the museum is responsible for a collection of osteological specimens from the Duke Lemur Center, from vouchered animals that died of natural causes at the DLC.
 
-# Data usage
+## Data usage
 
 Datasets provided by the DLC, including text, images, and other media, are freely accessible for educational and research purposes and should not be used for commercial purposes.
 
