@@ -9,8 +9,6 @@ background: /assets/images/placeholders/closeup.png
 imageLicense: placeholder
 height: 70vh
 ---
-# Taxa of the Duke Lemur Center
-
 Taxa are organized alphabetically by class. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218). This list also does not include plant fossil and subfossil specimens.
 Symbols: *Currently in colony, †Formerly in colony, ‡Fossil or subfossil, §Osteology
 
