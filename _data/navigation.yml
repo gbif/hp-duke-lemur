@@ -8,12 +8,6 @@
   menu: 
   - text: Specimens
     href: /occurrence/search
-- text: Example pages
-  menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complex
-    href: /example-pages/complex
 - text: Taxonomy
   href: /taxonomy
 - text: Links
