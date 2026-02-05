@@ -82,9 +82,6 @@ Family CROCODYLIDAE
 Family GAVIALIDAE
 * Tomistoma sp.‡
 
-## Dinosauria
-### Theropoda‡
-
 ## Dipnoi
 
 ## Mammalia
