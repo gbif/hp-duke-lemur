@@ -6,7 +6,7 @@ title: How to format and publish data to GBIF
 description:
 background: /assets/images/headers/10137_1DH4361.JPG
 imageLicense: A Coquerel sifaka mother crossing a fallen tree with an infant riding on her back. Photo by David Harring
-height: 30vh
+height: 50vh
 toc: true
 ---
 ## Introduction to GBIF
