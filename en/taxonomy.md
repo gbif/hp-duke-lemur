@@ -16,7 +16,7 @@ Symbols: *Currently in colony, †Formerly in colony, ‡Fossil or subfossil, §
 
 ## Actinopterygii
 
-Order ANABANTIFORMES<br>
+### ANABANTIFORMES<br>
 Family CHANNIDAE‡
 
 Order SILURIFORMES <br>
@@ -366,3 +366,14 @@ Family Indet.
 Family PTOLEMIIDAE
 * Cleopatrodon sp.‡
 * Ptolemaia sp.‡
+
+Order RODENTIA<br>
+Family CTENOMYIDAE
+* Ctenomys sp.
+
+Family DIAMANTOMYIDAE
+* Metaphiomys beanelli
+
+Family GAUDEAMURIDAE
+* Gaudeamus aegypticus
+* Gaudeamus aslius
