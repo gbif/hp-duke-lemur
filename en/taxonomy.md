@@ -9,13 +9,13 @@ toc: true
 Taxa are organized alphabetically by class, using classifications based on the GBIF Backbone Taxonomy. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218). This list also does not include plant fossil and subfossil specimens. <br>
 Symbols: *Currently in colony, †Formerly in colony, ‡Fossil or subfossil, §Osteology
 
-# Chordata
-## Actinopterygii
+## Chordata
+### Actinopterygii
 
-### Anabantiformes
+#### Anabantiformes
 Family CHANNIDAE‡
 
-### Siluriformes
+#### Siluriformes
 Family ARIIDAE
 * Arius fraasi‡
 
@@ -23,68 +23,68 @@ Family BAGRIDAE
 
 * Bagrus sp.‡
 
-### Lepisosteiformes
+#### Lepisosteiformes
 Family LEPISOSTEIDAE‡
 
-### Perciformes
+#### Perciformes
 Family LATIDAE
 * Lates qatraniensis‡
 * Fajumia sp.‡
 
-## Amphibia
-### Anura‡
+### Amphibia
+#### Anura‡
 
-## Aves
-### Accipitriformes‡
+### Aves
+#### Accipitriformes‡
 
-### Charadriiformes
+#### Charadriiformes
 Family JACANIDAE
 * Nupharanassa tolutaria‡
 
 Family PANDIONIDAE
 * Pandion sp.‡
 
-### Ciconiiformes
+#### Ciconiiformes
 Family CICONIIDAE‡
 
 Family XENERODIOPIDAE
 * Xenerodiops mycter‡
 
-### Galliformes
+#### Galliformes
 Family PHASIANIDAE
 * Gallus gallus§
 
-### Pelecaniformes
+#### Pelecaniformes
 Family BALAENICIPITIDAE
 
-### Suliformes
+#### Suliformes
 Family PHALACROCORACIDAE
 
-## Chondrichthyes
-### Carchaehiniformes
+### Chondrichthyes
+#### Carchaehiniformes
 
-### Pristiformes
+#### Pristiformes
 Family PRISTIDAE
 * Pristis sp.
 
-### Rajiformes
+#### Rajiformes
 Family RAJIDAE
 
-## Crocodylia
+### Crocodylia
 Family CROCODYLIDAE
 * Crocodylus sp.‡
 
 Family GAVIALIDAE
 * Tomistoma sp.‡
 
-## Dipnoi
+### Dipnoi
 
-## Mammalia
-### Indet.
+### Mammalia
+#### Indet.
 Family METACHEIROMYIDAE
 * Metacheiromys sp.‡
 
-### Artiodactyla
+#### Artiodactyla
 Family ANTHRACOTHERIIDAE
 * Afromeryx africanus‡
 * Anthracotherium‡
@@ -100,7 +100,7 @@ Family BOVIDAE
 
 Family HOMACONDITIDAE
 
-### Carnivora
+#### Carnivora
 Family AMPHICYONIDAE
 * Cynelos sp.‡
 
@@ -120,32 +120,32 @@ Family PROCYONIDAE
 Family STENIPLESICTIDAE
 * Moghradictis nedjema‡
 
-### Chiroptera§‡
+#### Chiroptera§‡
 Family PHILISIDAE
 * Philisis ingis‡
 
-### Cimolesta
+#### Cimolesta
 Family PANTOLESTIDAE‡
 
-### Cingulata
+#### Cingulata
 Family CHLAMYPHORIDAE
 * Chaetophractus sp.‡
 
-### Creodonta‡
+#### Creodonta‡
 
-### Didelphimorphia
+#### Didelphimorphia
 Family DIDELPHIDAE
 * Didelphis virginiana§
 
-### Embrithopoda
+#### Embrithopoda
 Family ARSINOTHERIIDAE‡
 * Arsinotherium sp.‡
 
-### Eulipotyphla
+#### Eulipotyphla
 Family SORICDAE
 * Blarina brevicauda§
 
-### Hyaenodonta
+#### Hyaenodonta
 Family HYAENODONTIDAE‡
 * Thinocyon sp.‡
 * Masrasector ligabuei‡
@@ -160,7 +160,7 @@ Family HYAINAILOURIDAE‡
 Family TERATONTIDAE
 * Byrchotherium ephalmos‡
 
-### Hyracoidea
+#### Hyracoidea
 Family GENIOHYIDAE
 * Bunohyrax sp.‡
 * Geniohyus magnus‡
@@ -181,10 +181,10 @@ Family SAGHATHERIIDAE
 Family TITANOHYRACIDAE
 * Titanohyrax sp.‡
 
-### Oxyaenodonta
+#### Oxyaenodonta
 Family OXYAENIDAE‡
 
-### Perissodactyla
+#### Perissodactyla
 Family BRONTOTHERIIDAE
 * Palaeosyops sp.‡
 
@@ -197,19 +197,19 @@ Family HYRACHYIDAE
 
 Family RHINOCEROTIDAE‡
 
-### Pholidota§
+#### Pholidota§
 Family MANIDAE
 * Manis sp.§
 * Phataginus tricus§
 
-### Pilosa
+#### Pilosa
 Family CHOLOEPODIDAE
 * Choloepus didactylus§
 
 Family LEPTICTIDAE
 * Palaeictops sp.‡
 
-### Primates
+#### Primates
 Family Indet.
 * Karanisia clarki‡
 
@@ -355,7 +355,7 @@ Family TARSIIDAE
 Family VICTORIAPITHECIDAE
 * Prohylobates tandyi‡
 
-### Proboscidea
+#### Proboscidea
 Family BARYTHERIIDAE
 * Barytherium sp.‡
 
@@ -367,7 +367,7 @@ Family MOERITHERIIDAE
 Family PALEOMASTODONTIDAE
 * Paleomastodon sp.‡
 
-### Ptolemaiida
+#### Ptolemaiida
 Family Indet.
 * Qarunavus sp.‡
 
@@ -375,7 +375,7 @@ Family PTOLEMIIDAE
 * Cleopatrodon sp.‡
 * Ptolemaia sp.‡
 
-### Rodentia
+#### Rodentia
 Family CTENOMYIDAE
 * Ctenomys sp.
 
@@ -395,27 +395,27 @@ Family THRYONOMYIDAE
 * Minamys simonsi
 * Paraphiomys simonsi
 
-### Scandentia
+#### Scandentia
 Family TUPAIIDAE
 * Tupaia glis
 
-### Sirenia
+#### Sirenia
 
-### Ungulata
+#### Ungulata
 Family HYOPSODONTIDAE
 * Hyopsodus paulus
 
-## Osteichthyes 
+### Osteichthyes 
 
-## Squamata
+### Squamata
 Family AMPHISBAENIDAE<br>
 Family PALAEOPHIIDAE<br>
 Family TROPIDOPHIIDAE<br>
 Family VARANIDAE<br>
 
-## Testudines
+### Testudines
 Family CARETTOCHELYIDAE<br>
 Family EMYDIDAE<br>
 Family TRIONCHIDAE<br>
 
-# Gastropoda
+## Gastropoda
