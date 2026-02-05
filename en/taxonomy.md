@@ -11,15 +11,16 @@ height: 70vh
 ---
 # Taxa of the Duke Lemur Center
 
-Taxa are organized alphabetically by class. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218).
+Taxa are organized alphabetically by class. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218). This list also does not include plant fossil and subfossil specimens.
 Symbols: *Currently in colony, †Formerly in colony, ‡Fossil or subfossil, §Osteology
 
+# Chordata
 ## Actinopterygii
 
-### ANABANTIFORMES<br>
+### Anabantiformes
 Family CHANNIDAE‡
 
-Order SILURIFORMES <br>
+### Siluriformes
 Family ARIIDAE
 * Arius fraasi‡
 
@@ -27,56 +28,71 @@ Family BAGRIDAE
 
 * Bagrus sp.‡
 
-Order LEPISOSTEIFORMES <br>
+### Lepisosteiformes
 Family LEPISOSTEIDAE‡
 
-Order PERCIFORMES <br>
+### Perciformes
 Family LATIDAE
 * Lates qatraniensis‡
 * Fajumia sp.‡
 
 ## Amphibia
-Order ANURA‡
+### Anura‡
 
 ## Aves
-Order ACCIPITRIFORMES‡
+### Accipitriformes‡
 
-Order CHARADRIIFORMES <br>
+### Charadriiformes
 Family JACANIDAE
 * Nupharanassa tolutaria‡
 
 Family PANDIONIDAE
 * Pandion sp.‡
 
-Order CICONIIFORMES <br>
+### Ciconiiformes
 Family CICONIIDAE‡
 
-Order GALLIFORMES <br>
+Family XENERODIOPIDAE
+* Xenerodiops mycter‡
+
+### Galliformes
 Family PHASIANIDAE
 * Gallus gallus§
 
-Order PELECANIFORMES <br>
+### Pelecaniformes
 Family BALAENICIPITIDAE
 
-Order SULIFORMES <br>
+### Suliformes
 Family PHALACROCORACIDAE
 
 ## Chondrichthyes
-Order CARCHAEHINIFORMES
+### Carchaehiniformes
 
-Order PRISTIFORMES <br>
+### Pristiformes
 Family PRISTIDAE
 * Pristis sp.
 
-Order RAJIFORMES <br>
+### Rajiformes
 Family RAJIDAE
 
+## Crocodylia
+Family CROCODYLIDAE
+* Crocodylus sp.‡
+
+Family GAVIALIDAE
+* Tomistoma sp.‡
+
+## Dinosauria
+### Theropoda‡
+
+## Dipnoi
+
 ## Mammalia
-Order Indet.<br>
+### Indet.
 Family METACHEIROMYIDAE
 * Metacheiromys sp.‡
 
-Order ARTIODACTYLA <br>
+### Artiodactyla
 Family ANTHRACOTHERIIDAE
 * Afromeryx africanus‡
 * Anthracotherium‡
@@ -92,7 +108,7 @@ Family BOVIDAE
 
 Family HOMACONDITIDAE
 
-Order CARNIVORA <br>
+### Carnivora
 Family AMPHICYONIDAE
 * Cynelos sp.‡
 
@@ -112,32 +128,32 @@ Family PROCYONIDAE
 Family STENIPLESICTIDAE
 * Moghradictis nedjema‡
 
-Order CHIROPTERA§‡ <br>
+### Chiroptera§‡
 Family PHILISIDAE
 * Philisis ingis‡
 
-Order CIMOLESTA <br>
+### Cimolesta
 Family PANTOLESTIDAE‡
 
-Order CINGULATA <br>
+### Cingulata
 Family CHLAMYPHORIDAE
 * Chaetophractus sp.‡
 
-Order CREODONTA‡
+### Creodonta‡
 
-Order DIDELPHIMORPHIA <br>
+### Didelphimorphia
 Family DIDELPHIDAE
 * Didelphis virginiana§
 
-Order EMBRITHOPODA <br>
+### Embrithopoda
 Family ARSINOTHERIIDAE‡
 * Arsinotherium sp.‡
 
-Order EULIPOTYPHLA <br>
+### Eulipotyphla
 Family SORICDAE
 * Blarina brevicauda§
 
-Order HYAENODONTA <br>
+### Hyaenodonta
 Family HYAENODONTIDAE‡
 * Thinocyon sp.‡
 * Masrasector ligabuei‡
@@ -152,7 +168,7 @@ Family HYAINAILOURIDAE‡
 Family TERATONTIDAE
 * Byrchotherium ephalmos‡
 
-Order HYRACOIDEA<br>
+### Hyracoidea
 Family GENIOHYIDAE
 * Bunohyrax sp.‡
 * Geniohyus magnus‡
@@ -173,10 +189,10 @@ Family SAGHATHERIIDAE
 Family TITANOHYRACIDAE
 * Titanohyrax sp.‡
 
-Order OXYAENODONTA<br>
+### Oxyaenodonta
 Family OXYAENIDAE‡
 
-Order PERISSODACTYLA<br>
+### Perissodactyla
 Family BRONTOTHERIIDAE
 * Palaeosyops sp.‡
 
@@ -189,19 +205,19 @@ Family HYRACHYIDAE
 
 Family RHINOCEROTIDAE‡
 
-Order PHOLIDOTA§<br>
+### Pholidota§
 Family MANIDAE
 * Manis sp.§
 * Phataginus tricus§
 
-Order PILOSA<br>
+### Pilosa
 Family CHOLOEPODIDAE
 * Choloepus didactylus§
 
 Family LEPTICTIDAE
 * Palaeictops sp.‡
 
-Order PRIMATES <br>
+### Primates
 Family Indet.
 * Karanisia clarki‡
 
@@ -347,7 +363,7 @@ Family TARSIIDAE
 Family VICTORIAPITHECIDAE
 * Prohylobates tandyi‡
 
-Order PROBOSCIDEA<br>
+### Proboscidea
 Family BARYTHERIIDAE
 * Barytherium sp.‡
 
@@ -359,7 +375,7 @@ Family MOERITHERIIDAE
 Family PALEOMASTODONTIDAE
 * Paleomastodon sp.‡
 
-Order PTOLEMAIIDA<br>
+### Ptolemaiida
 Family Indet.
 * Qarunavus sp.‡
 
@@ -367,7 +383,7 @@ Family PTOLEMIIDAE
 * Cleopatrodon sp.‡
 * Ptolemaia sp.‡
 
-Order RODENTIA<br>
+### Rodentia
 Family CTENOMYIDAE
 * Ctenomys sp.
 
@@ -377,3 +393,37 @@ Family DIAMANTOMYIDAE
 Family GAUDEAMURIDAE
 * Gaudeamus aegypticus
 * Gaudeamus aslius
+
+Family PHIOMYIDAE
+* Metaphiomys schaubi
+* Phiomys andrewsi
+* Phiomys paraphiomoides
+
+Family THRYONOMYIDAE
+* Minamys simonsi
+* Paraphiomys simonsi
+
+### Scandentia
+Family TUPAIIDAE
+* Tupaia glis
+
+### Sirenia
+
+### Ungulata
+Family HYOPSODONTIDAE
+* Hyopsodus paulus
+
+## Osteichthyes 
+
+## Squamata
+Family AMPHISBAENIDAE<br>
+Family PALAEOPHIIDAE<br>
+Family TROPIDOPHIIDAE<br>
+Family VARANIDAE<br>
+
+## Testudines
+Family CARETTOCHELYIDAE<br>
+Family EMYDIDAE<br>
+Family TRIONCHIDAE<br>
+
+# Gastropoda
