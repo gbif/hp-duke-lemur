@@ -9,7 +9,7 @@ background: /assets/images/placeholders/closeup.png
 imageLicense: placeholder
 height: 70vh
 ---
-Taxa are organized alphabetically by class, using classifications based on the GBIF Backbone Taxonomy. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218). This list also does not include plant fossil and subfossil specimens.
+Taxa are organized alphabetically by class, using classifications based on the GBIF Backbone Taxonomy. This list does not include information about hybrid specimens, which can be found in the [Duke Lemur Center checklist dataset on GBIF](https://www.gbif.org/dataset/96338c07-256a-4853-bab3-86dd7794b218). This list also does not include plant fossil and subfossil specimens. <br>
 Symbols: *Currently in colony, †Formerly in colony, ‡Fossil or subfossil, §Osteology
 
 # Chordata
