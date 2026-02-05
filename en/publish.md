@@ -1,6 +1,6 @@
 ---
 permalink: publish
-layout: documentation
+layout: page
 lang-ref: publish
 title: How to format and publish data to GBIF
 description:
