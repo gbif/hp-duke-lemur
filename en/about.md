@@ -4,7 +4,7 @@ layout: page
 lang-ref: about
 title: About the Duke Lemur Center GBIF data portal
 description: 
-background: /assets/images/Motmot%20DLC%207056%20research.jpeg
+background: /assets/images/headers/Motmot%20DLC%207056%20research.jpeg
 imageLicense: Motmot participating in hibernation research, photo by David Harring
 height: 50vh
 toc: true
