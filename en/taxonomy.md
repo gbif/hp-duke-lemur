@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: taxonomy
 lang-ref: taxonomy
 title: Taxa of Duke Lemur Center
