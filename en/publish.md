@@ -10,7 +10,7 @@ height: 50vh
 toc: true
 ---
 ## Introduction to GBIF
-GBIF is a network of biodiversity data from sources all over the world. Participating institutions share datasets, using widely accepted data standards
+GBIF is a network of biodiversity data from sources all over the world. Participating institutions share datasets, using widely accepted data standards.
 More information about GBIF can be found [here](https://www.gbif.org/what-is-gbif).
 
 ### Darwin Core
