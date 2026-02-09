@@ -25,6 +25,10 @@
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: Publish
-  href: /publish
+  menu:
+  - text: GBIF quick-start guide
+    href: /gbif-intro
+  - text: How to publish to this portal
+    href: /publish
 - text: News
   href: /news/
