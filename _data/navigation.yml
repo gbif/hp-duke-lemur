@@ -27,7 +27,7 @@
 - text: Publish
   menu:
   - text: GBIF quick-start guide
-    href: /gbif-intro
+    href: /quick-start
   - text: How to publish to this portal
     href: /publish
 - text: News
