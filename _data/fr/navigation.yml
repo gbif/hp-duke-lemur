@@ -1,8 +1,18 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About lang2
+- text: À propos
   href: /fr/about
-- text: Data
+- text: Données
   menu: 
-  - text: Occurrence lang2
+  - text: Occurrence
     href: /fr/occurrence/search
+- text: Taxonomie
+  href: fr/taxonomy
+- text: Publier
+  menu:
+  - text: Guide rapide du GBIF
+    href: fr/quick-start
+  - text: Comment publier sur ce portail
+    href: fr/publish
+- text: Nouvelles (en Anglais)
+  href: /news/
