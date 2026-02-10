@@ -6,6 +6,7 @@ description: À propos du portail de données GBIF du Duke Lemur Center
 background: /assets/images/headers/Motmot%20DLC%207056%20research.jpeg
 imageLicense: Motmot participant à une étude de recherche sur l'hibernation, photo par David Harring
 height: 50vh
+toc: true
 ---
 
 Depuis ses établissement en 1966, le Duke Lemur Center (DLC) abrite des générations de lémuriens et les autres primates, représentant un total de plus de 4.000 animaux individuels. Nous travaillons ensemble avec des scientifiques du monde entier pour mener des reserches dans divers domaines d'études. Le DLC offre des opportunités pour des reserches observationnelle et expérimentale dans des conditions écologiquement pertinentes et contrôlées. Toutes les recherches menées par DLC sont peu invasives et sans danger pour les animaux. La Biobanque est un vaste dépôt d'échantillons soigneusement sélectionnés, permettant des études à différentes échelles, des molécules aux organismes entiers. Le DLC Muséum d'Histoire naturelle (DLCMNH) abrite plus de 35.000 spécimens fossiles, subfossiles et ostéologiques disponibles pour l'étude. Cette collection retrace plus de 55 millions d'années d'évolution sur 3 continents.
