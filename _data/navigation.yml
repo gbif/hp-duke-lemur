@@ -10,6 +10,12 @@
     href: /occurrence/search
 - text: Taxonomy
   href: /taxonomy
+- text: Publish
+  menu:
+  - text: GBIF quick-start guide
+    href: /quick-start
+  - text: How to publish to this portal
+    href: /publish
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
@@ -24,11 +30,5 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: Publish
-  menu:
-  - text: GBIF quick-start guide
-    href: /quick-start
-  - text: How to publish to this portal
-    href: /publish
 - text: News
   href: /news/
