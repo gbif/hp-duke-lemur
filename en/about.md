@@ -15,7 +15,7 @@ The DLC has two in-house research themes, occurring on-site and in Madagascar, t
 
 All of this work has resulted in the creation and maintenance of vast quantities of data, made even more powerful when presented relationally. Our hope is that, by sharing these data on GBIF and encouraging other researchers and institutions to do the same, we will greatly increase the availability and accessibility of lemur-related biodiversity data.
 
-### Husbandry practices
+## Husbandry practices
 
 The Duke Lemur Center houses nearly 250 lemurs and bush babies across 12 species — the most diverse population of lemurs on Earth, outside their native Madagascar.
 
