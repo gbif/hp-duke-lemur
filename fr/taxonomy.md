@@ -2,7 +2,7 @@
 layout: page
 lang-ref: taxonomie
 title: Taxa du Duke Lemur Center
-description: Taxa éteints et existants conservés au Duke Lemur Center et au Musée d'Histoire Naturelle.
+description: Les taxa éteints et existants actuellement conservés au Duke Lemur Center et au Musée d'Histoire Naturelle.
 background: /assets/images/headers/A fraction of the DLC fossil collection 2.jpg
 imageLicense: A fraction of the DLCMNH collection
 height: 50vh
