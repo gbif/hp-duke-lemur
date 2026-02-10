@@ -1,8 +1,8 @@
 ---
 lang-ref: à propos
-title: À propos
+title: À propos du portail de données GBIF du Duke Lemur Center
 layout: page
-description: À propos du portail de données GBIF du Duke Lemur Center
+description:
 background: /assets/images/headers/Motmot%20DLC%207056%20research.jpeg
 imageLicense: Motmot participant à une étude de recherche sur l'hibernation, photo par David Harring
 height: 50vh
