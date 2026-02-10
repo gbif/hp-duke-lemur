@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: fr/taxonomy
 lang-ref: taxonomie
 title: Taxa du Duke Lemur Center
 description: Taxa éteints et existants conservés au Duke Lemur Center et au Musée d'Histoire Naturelle.
