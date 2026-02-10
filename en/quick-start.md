@@ -3,7 +3,7 @@ permalink: quick-start
 layout: page
 lang-ref: quick-start
 title: Quick start giude
-description: 
+description: Get started formatting and publishing data for GBIF
 background: /assets/images/headers/10137_1DH4361.JPG
 imageLicense: A Coquerel sifaka mother crossing a fallen tree with an infant riding on her back. Photo by David Harring
 height: 50vh
