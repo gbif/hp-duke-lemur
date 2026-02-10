@@ -15,7 +15,7 @@ Le DLC mène deux programmes de recherche internes, réalisés sur place et à M
 
 Tout ce travail a abouti à la création et à la gestion de vastes quantités de données, dont la puissance est encore accrue lorsqu'elles sont présentées de manière relationnelle. Nous espérons qu'en partageant ces données sur GBIF et en encourageant d'autres chercheurs et institutions à faire de même, nous augmenterons considérablement la disponibilité et l'accessibilité des données sur la biodiversité liées aux lémuriens.
 
-### Zootechnie
+## Zootechnie
 
 Le Duke Lemur Center abrite près de 250 lémuriens et galagos appartenant à 12 espèces différentes, ce qui représente la population de lémuriens la plus diversifiée au monde, en dehors de leur habitat naturel à Madagascar.
 
