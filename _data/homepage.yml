@@ -2,7 +2,7 @@ ourData:
   reverse: false
   title: "Our data"
   description: |      # required
-    We aim to help researchers tell the story of mammal, primate, and human evolution with life history data from over 60 years of caring for our colony of prosimian primates; data from our extensive BioBank; as well as osteological, fossil, and subfossil data from the Museum of Natural History.
+    Our data includes life histories of thousands of individual lemurs from our living colony; frozen and liquid-preserved specimens in our extensive BioBank; as well as osteological, fossil, and subfossil specimens at the Museum of Natural History. Together, these data tell the interconnected stories of lemurs and humans and provide for countless research opportunities.
   # img required
   background: /assets/images/headers/mouse_mega.jpg
   imageLicense: |
