@@ -19,7 +19,12 @@ columns:
       * 3705 Erwin Road
       * Durham, NC 27705
       * USA
-    connectIcons: true
+    connectIcons: false
+  
+  - klass: footer-description img
+    description: |
+      [<img src="/assets/images/logos/transparent DLC logo.png" alt="Duke Lemur Center" style="width: 150px"/>](https://lemur.duke.edu/)
+      [<img src="/assets/images/logos/transparent DLCMNH logo-04.png" alt="Duke Lemur Center Museum of Natural History" style="width: 150px"/>](https://lemur.duke.edu/discover/dlcmnh/)
 
   # EXAMPLE
   #- name: Group name
