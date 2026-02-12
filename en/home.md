@@ -19,7 +19,7 @@ composition:
   - type: split
     data: homepage.partnerData
   - type: features
-    data: examples.couldBeAnyName
+    data: homepage.featuredStories
 permalink: /
 ---
 

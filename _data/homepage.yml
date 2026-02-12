@@ -27,3 +27,26 @@ partnerData:
   - text: Explore the data
     href: /occurrence/search?filter=eyJtdXN0Tm90Ijp7Imluc3RpdHV0aW9uS2V5IjpbIjI3NjNmNTZlLWZjNjUtNDJkZi05YTE0LTk4YzE3ZjY3YjZhYiJdfSwiY2hlY2tsaXN0S2V5IjoiZDdkZGRiZjQtMmNmMC00ZjM5LTliMmEtYmIwOTljYWFlMzZjIn0%3D
     isPrimary: true
+
+featuredStories:
+  # title: Virginis socerque
+  # description: |
+  #   Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+  features:
+    - title: Taxa of the DLC # required
+      description: |      # required
+        Fauna list of the living and preserved specimens of the Duke Lemur Center and Museum of Natural History.
+      href: /taxonomy
+      # img required
+      background: /assets/images/headers/A fraction of the DLC fossil collection 2.jpg
+      # categories: [drawings] # optional
+    - title: Get started with GBIF
+      description: |
+        Our quick-start guide to help other institutions format and publish their data to GBIF.
+      href: /quick-start
+      background: /assets/images/headers/10137_1DH4361.JPG
+    - title: Publish your data to the DLC portal
+      description: |
+        Help us aggregate data on lemurs and related topics of biodiversity
+      href: /publish
+      background: /assets/images/headers/Prolemur simus skulls 2.jpg
