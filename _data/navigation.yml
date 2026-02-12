@@ -8,6 +8,10 @@
   menu: 
   - text: Specimens
     href: /occurrence/search
+  - text: Collections
+    href: /collection/search
+  - text: Datasets
+    href: dataset/search
 - text: Taxonomy
   href: /taxonomy
 - text: Publish
