@@ -37,7 +37,9 @@ Famille LATIDAE
 ### Amphibia
 #### Anura‡
 
-### [Aves](https://www.gbif.org/occurrence/search?publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0&taxon_key=212)‡
+### Aves
+[Famille indet.](https://www.gbif.org/occurrence/search?publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0&taxon_key=212)‡
+
 #### Accipitriformes‡
 
 #### Charadriiformes
@@ -133,7 +135,8 @@ Famille [PANTOLESTIDAE](https://www.gbif.org/occurrence/search?publishing_org=0d
 Famille CHLAMYPHORIDAE
 * [Chaetophractus](https://www.gbif.org/occurrence/search?publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0&taxon_key=2440814) sp.‡
 
-#### [Creodonta](https://www.gbif.org/occurrence/search?q=Creodonta&publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0)‡
+#### Creodonta
+[Famille indet.](https://www.gbif.org/occurrence/search?q=Creodonta&publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0)‡
 
 #### Didelphimorphia
 Famille DIDELPHIDAE
@@ -356,7 +359,9 @@ Famille TARSIIDAE
 Famille VICTORIAPITHECIDAE
 * Prohylobates tandyi‡
 
-#### [Proboscidea](https://www.gbif.org/occurrence/search?q=Proboscidea&publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0&taxon_key=799)
+#### Proboscidea
+[Famille indet.](https://www.gbif.org/occurrence/search?q=Proboscidea&publishing_org=0dea2b07-16e2-4604-9f50-36a4dd81d0e0&taxon_key=799)
+
 Famille BARYTHERIIDAE
 * Barytherium sp.‡
 

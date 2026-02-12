@@ -1,0 +1,29 @@
+ourData:
+  reverse: false
+  title: "Our data"
+  description: |      # required
+    We aim to help researchers tell the story of mammal, primate, and human evolution with life history data from over 60 years of caring for our colony of prosimian primates; data from our extensive BioBank; as well as osteological, fossil, and subfossil data from the Museum of Natural History.
+  # img required
+  background: /assets/images/headers/mouse_mega.jpg
+  imageLicense: |
+    The smallest lemur, a mouse lemur (_Microcebus murinus_), sits on the skull of the largest lemur, the extinct _Megaladapis_. Photo by David Haring
+  href: /occurrence/search?publishingOrg=0dea2b07-16e2-4604-9f50-36a4dd81d0e0
+  cta:
+  - text: Explore our data
+    href: /occurrence/search?publishingOrg=0dea2b07-16e2-4604-9f50-36a4dd81d0e0
+    isPrimary: true
+
+partnerData:
+  reverse: true
+  title: "Partner data"
+  description: |      # required
+    We partner with institutions all over the world to learn how to better care for lemurs onsite and aid conservation efforts for wild lemurs in Madagascar. 
+  # img required
+  background: /assets/images/headers/TIG-Nosy-Be-Sifaka-624x374.jpg
+  imageLicense: |
+    A free-ranging Coquerel’s sifaka at Lemuria Land (Nosy Be, Madagascar) during a site visit in 2024.
+  href: /occurrence/search?publishingOrg=0dea2b07-16e2-4604-9f50-36a4dd81d0e0
+  cta:
+  - text: Explore the data
+    href: /occurrence/search?filter=eyJtdXN0Tm90Ijp7Imluc3RpdHV0aW9uS2V5IjpbIjI3NjNmNTZlLWZjNjUtNDJkZi05YTE0LTk4YzE3ZjY3YjZhYiJdfSwiY2hlY2tsaXN0S2V5IjoiZDdkZGRiZjQtMmNmMC00ZjM5LTliMmEtYmIwOTljYWFlMzZjIn0%3D
+    isPrimary: true

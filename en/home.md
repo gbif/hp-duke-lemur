@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Lemur data
-description: Open data from the Duke Lemur Center
+title: Duke Lemur Center GBIF Portal
+description: Open data from the Duke Lemur Center and partner institutions
 background:  /assets/images/placeholders/new-home-hero-1.jpg
 imageLicense: Some license and description should go here
 height: 90vh
@@ -15,7 +15,9 @@ cta:
 composition:
   - type: heroImage # the block type
   - type: split
-    data: examples.herbariumImageExample
+    data: homepage.ourData
+  - type: split
+    data: homepage.partnerData
   - type: features
     data: examples.couldBeAnyName
 permalink: /
