@@ -2,7 +2,7 @@ ourData:
   reverse: false
   title: "Our data"
   description: |      # required
-    Our data includes life histories of thousands of individual lemurs from our living colony; frozen and liquid-preserved specimens in our extensive BioBank; as well as osteological, fossil, and subfossil specimens at the Museum of Natural History. Together, these data tell the interconnected stories of lemurs and humans and provide for countless research opportunities.
+    Our data include life histories of thousands of individual lemurs from our living colony; frozen and liquid-preserved specimens in our extensive BioBank; as well as osteological, fossil, and subfossil specimens at the Museum of Natural History. Together, these data tell the interconnected stories of lemurs and humans and provide for countless research opportunities.
   # img required
   background: /assets/images/headers/mouse_mega.jpg
   imageLicense: |
