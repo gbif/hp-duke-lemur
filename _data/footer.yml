@@ -12,17 +12,18 @@ columns:
 
   - name: Duke Lemur Center
     description: | # Can be Markdown
-      [<img src="/assets/images/logos/transparent DLC logo.png" alt="Duke Lemur Center" style="width: 150px"/>](https://lemur.duke.edu/)
       * 3705 Erwin Road
       * Durham, NC 27705
       * USA
+      [<img src="/assets/images/logos/transparent DLC logo.png" alt="Duke Lemur Center" style="width: 150px"/>](https://lemur.duke.edu/)
+
 
   - name: Duke Lemur Center Museum of Natural History
     description: |
-      [<img src="/assets/images/logos/transparent DLCMNH logo-04.png" alt="Duke Lemur Center Museum of Natural History" style="width: 150px"/>](https://lemur.duke.edu/discover/dlcmnh/)
       * 1013 Broad Street
       * Durham, NC 27705
       * USA
+      [<img src="/assets/images/logos/transparent DLCMNH logo-04.png" alt="Duke Lemur Center Museum of Natural History" style="width: 150px"/>](https://lemur.duke.edu/discover/dlcmnh/)
   
   - name: Code
     description: | # Can be Markdown
