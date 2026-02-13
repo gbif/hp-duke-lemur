@@ -85,7 +85,7 @@ Famille GAVIALIDAE
 ### Dipnoi
 
 ### Mammalia
-#### Indet.
+#### Ordre indet.
 Famille METACHEIROMYIDAE
 * Metacheiromys sp.‡
 
