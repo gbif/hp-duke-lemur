@@ -6,6 +6,10 @@
   menu: 
   - text: Occurrences
     href: /fr/occurrence/search
+  - text: Collections
+    href: /collection/search
+  - text: Datasets
+    href: dataset/search
 - text: Taxonomie
   href: fr/taxonomy
 - text: Publier
@@ -15,5 +19,10 @@
   - text: Comment publier sur ce portail
     href: fr/publish
 - text: Liens
-- text: Nouvelles (en Anglais)
+  menu: # Dropdown menu (one level deep only)
+  - text: Duke Lemur Center
+    href: http://lemur.duke.edu
+  - text: Réseau ZooMu
+    href: https://zoomunetwork.org/
+- text: Nouvelles
   href: /news/
